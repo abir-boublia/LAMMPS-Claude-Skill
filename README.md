@@ -95,6 +95,7 @@ GPLv2, https://docs.lammps.org/) using Claude AI. The manual was read
 section by section and condensed into a structured reference that fits
 inside a single skill file.
 
+[Read the LAMMPS manual (PDF)](references/Manual.pdf)
 ## License
 
 MIT. See [LICENSE](LICENSE).
